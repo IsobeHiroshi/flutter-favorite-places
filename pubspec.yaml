@@ -45,6 +45,8 @@ dependencies:
       ref: patch-1
       path: packages/location
   http: ^1.0.0
+  google_maps_flutter: ^2.3.0
+  flutter_dotenv: ^5.1.0
 
 dev_dependencies:
   flutter_test:
